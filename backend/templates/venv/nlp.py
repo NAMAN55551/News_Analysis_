@@ -1,7 +1,7 @@
 import requests
 import json
 
-NEWS_API_KEY = "d06fbf8025ec4887833aca6003b524a5"
+NEWS_API_KEY = "add your api"
 BASE_URL_TOP = "https://newsapi.org/v2/top-headlines"
 BASE_URL_EVERYTHING = "https://newsapi.org/v2/everything"
 
